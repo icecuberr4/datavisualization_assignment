@@ -1,0 +1,25 @@
+{
+    "source": "src/index.html",
+    "name": "assignment",
+    "version": "1.0.0",
+    "license": "",
+    "type": "module",
+    "scripts": {
+        "dev": "parcel src/index.html",
+        "build": "parcel build src/index.html --public-url ./"
+    },
+    "devDependencies": {
+        "assert": "^2.1.0",
+        "buffer": "^6.0.3",
+        "console-browserify": "^1.2.0",
+        "parcel": "^2.11.0",
+        "process": "^0.11.10",
+        "util": "^0.12.5"
+    },
+    "dependencies": {
+        "@cubejs-client/core": "^0.34.37",
+        "chart.js": "^4.4.1",
+        "cors": "^2.8.5",
+        "express": "^4.18.2"
+    }
+}
