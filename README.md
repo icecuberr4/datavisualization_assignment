@@ -7,7 +7,6 @@ Technologies:
 Parcel.js: A zero-configuration bundler for modern web apps.
 Node.js: JavaScript runtime environment powering Parcel.js and server-side operations.
 Chart.js: JavaScript library for crafting diverse chart types.
-Project Highlights:
 
 Clone the repository.
 Install dependencies with npm install.
